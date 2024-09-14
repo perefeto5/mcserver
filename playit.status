@@ -1,0 +1,432 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0mGot Error
+MSG: Failed to load data from api
+retrying in 3 seconds
+Error: TooManyRequests
+[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273448375 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273451449 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273466567 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273469636 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273484734 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273499840 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273502897 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273505956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273521060 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273524120 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273539234 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273542299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273557421 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273572539 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273575602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273590714 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273593776 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273608881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273611946 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273627108 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273642201 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273645270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273660352 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273663416 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273678505 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273681588 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273696677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273711818 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273714900 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273730014 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273733081 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273748168 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273763270 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273766332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273781447 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273784552 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273799651 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273814748 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273817810 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273832896 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273848055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273851175 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273866301 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273869381 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273884489 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273899580 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273902640 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273917749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273920818 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273935933 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273938996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273954084 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273969183 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273972254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726273987353 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273990416 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726273993473 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726274008586 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726274011652 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726274026742 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726274029800 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726274044892 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726274047951 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726274063042 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+legal-prostores.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)

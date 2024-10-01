@@ -1,0 +1,126 @@
+[01Oct2024 15:43:33.921] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[01Oct2024 15:43:33.928] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.8.0-1014-azure
+[01Oct2024 15:43:35.868] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01Oct2024 15:43:36.160] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/mcserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01Oct2024 15:43:36.915] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mcserver/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[01Oct2024 15:43:36.920] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mcserver/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[01Oct2024 15:43:36.923] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mcserver/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[01Oct2024 15:43:36.928] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/mcserver/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[01Oct2024 15:43:37.143] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[01Oct2024 15:43:42.742] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Oct2024 15:43:42.756] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[01Oct2024 15:44:00.673] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[01Oct2024 15:44:00.692] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[01Oct2024 15:44:01.906] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[01Oct2024 15:44:02.100] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[01Oct2024 15:44:02.122] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[01Oct2024 15:44:02.123] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[01Oct2024 15:44:02.123] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[01Oct2024 15:44:02.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[01Oct2024 15:44:03.976] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.22 Target: null
+[01Oct2024 15:44:03.982] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Oct2024 15:44:04.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[01Oct2024 15:44:06.476] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Oct2024 15:44:08.161] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mcserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23107!/assets/.mcassetsroot' uses unexpected schema
+[01Oct2024 15:44:08.162] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/mcserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23107!/data/.mcassetsroot' uses unexpected schema
+[01Oct2024 15:44:12.557] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[01Oct2024 15:44:12.880] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[01Oct2024 15:44:13.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01Oct2024 15:44:13.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Oct2024 15:44:13.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Oct2024 15:44:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Oct2024 15:44:14.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Oct2024 15:44:14.167] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Oct2024 15:44:14.359] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Oct2024 15:44:14.362] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Oct2024 15:44:14.364] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Oct2024 15:44:14.365] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Oct2024 15:44:14.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Oct2024 15:44:30.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Oct2024 15:44:39.915] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Oct2024 15:44:41.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:41.832] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:41.888] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:41.920] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.176] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.237] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.314] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.362] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.375] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.410] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.439] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.466] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.531] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.557] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.578] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.592] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.633] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.665] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.676] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.687] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.690] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.692] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:42.801] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:43.357] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:43.784] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:44.095] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[01Oct2024 15:44:44.287] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:44.785] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:45.350] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:45.837] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:46.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:46.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:47.411] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:48.159] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2024 15:44:48.282] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[01Oct2024 15:44:49.091] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 18816 ms
+[01Oct2024 15:44:49.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (34.701s)! For help, type "help"
+[01Oct2024 15:44:49.168] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Oct2024 15:44:49.172] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[01Oct2024 15:44:49.204] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[01Oct2024 15:44:55.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.7.170.186:55591] logged in with entity id 96 at (280.4335413576644, 79.0, 1373.7216629723612)
+[01Oct2024 15:44:55.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[01Oct2024 15:45:02.139] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[01Oct2024 15:45:02.150] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[01Oct2024 15:45:02.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7166ms or 143 ticks behind
+[01Oct2024 16:36:15.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[01Oct2024 16:36:15.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[01Oct2024 16:36:15.424] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[01Oct2024 16:42:49.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.7.170.186:58925] logged in with entity id 6994 at (291.3161550262865, 84.0, 1407.699999988079)
+[01Oct2024 16:42:49.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[01Oct2024 16:42:52.037] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[01Oct2024 16:42:52.048] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[01Oct2024 16:42:52.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
+[01Oct2024 17:05:48.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[01Oct2024 17:05:48.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[01Oct2024 17:05:48.714] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[01Oct2024 17:18:18.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.7.170.186:44975] logged in with entity id 11927 at (282.84056755798025, 79.0, 1396.3340113090683)
+[01Oct2024 17:18:18.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[01Oct2024 17:18:19.471] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[01Oct2024 17:18:19.476] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[01Oct2024 18:14:05.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[01Oct2024 18:14:05.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[01Oct2024 18:14:05.115] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[01Oct2024 18:33:43.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Irregular24[/127.7.170.186:35797] logged in with entity id 20012 at (302.18922523832674, 84.0, 1406.4548666695944)
+[01Oct2024 18:33:43.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 joined the game
+[01Oct2024 18:33:44.148] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Irregular24 (18)
+[01Oct2024 18:33:44.150] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Irregular24
+[01Oct2024 18:40:05.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Irregular24 lost connection: Disconnected
+[01Oct2024 18:40:05.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Irregular24 left the game
+[01Oct2024 18:40:05.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Irregular24
+[01Oct2024 18:40:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Oct2024 18:40:16.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[01Oct2024 18:40:21.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Oct2024 18:40:21.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Oct2024 18:40:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Oct2024 18:40:21.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Oct2024 18:40:21.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Oct2024 18:40:23.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Oct2024 18:40:23.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Oct2024 18:40:23.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Oct2024 18:40:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Oct2024 18:40:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Oct2024 18:40:23.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

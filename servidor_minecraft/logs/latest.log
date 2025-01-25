@@ -84,3 +84,44 @@
 [01:06:06] [User Authenticator #1/INFO]: UUID of player Seta33 is 14639684-7cba-383d-9504-86ac9ad2ef9e
 [01:06:06] [Server thread/INFO]: Seta33 joined the game
 [01:06:06] [Server thread/INFO]: Seta33[/127.117.158.103:47751] logged in with entity id 678 at ([oneblock]0.37836148466645214, 66.0, 0.11885706421166618)
+[01:09:33] [Server thread/INFO]: Seta33 issued server command: /ob reset
+[01:09:54] [Server thread/INFO]: Seta33 issued server command: /ob reload
+[01:10:10] [Server thread/INFO]: Seta33 issued server command: /ob set 500
+[01:10:27] [Server thread/INFO]: Seta33 issued server command: /restart
+[01:10:27] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[01:10:27] [Server thread/INFO]: Seta33 lost connection: Server is restarting
+[01:10:27] [Server thread/INFO]: Seta33 left the game
+[01:10:27] [Server thread/INFO]: Stopping server
+[01:10:27] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.1-b861
+[01:10:27] [Server thread/INFO]: [VoidGen] Disabling VoidGen v2.2.1
+[01:10:27] [Server thread/INFO]: [Oneblock] Disabling Oneblock v1.2.8
+[01:10:27] [Server thread/INFO]: Saving players
+[01:10:27] [Server thread/INFO]: Saving worlds
+[01:10:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 84 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[01:10:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:10:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 15 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[01:10:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:10:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[01:10:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:10:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[oneblock]'/minecraft:oneblock
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'oneblock'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'oneblock'
+[01:10:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'oneblock'
+[01:10:28] [Server thread/INFO]: [ChunkHolderManager] Saved 1627 block chunks, 26 entity chunks, 0 poi chunks in world 'oneblock' in 0.90s
+[01:10:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (oneblock): All chunks are saved
+[01:10:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:10:28] [Server thread/INFO]: Flushing Chunk IO
+[01:10:28] [Server thread/INFO]: Closing Thread Pool
+[01:10:28] [Server thread/INFO]: Closing Server

@@ -5,7 +5,7 @@
 world: oneblock
 # The Cordinates where the postion of your First OneBlock is set.
 x: 0.0
-y: 65.0
+y: 66.0
 z: 0.0
 # This is the place where a player gets tp-ed when they execute /ob leave
 leaveworld: world
@@ -36,7 +36,7 @@ WorldGuard: true
 # This is the block-distance between one Island to other.
 # Default value 100. If you increase this then More chunks will be generated.
 # Which causes more storage to be occupied
-set: 100
+set: 500
 # Use the island creation mode in a circle?
 СircleMode: false
 # Toss drop(item) up above the block?
